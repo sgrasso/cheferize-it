@@ -6,11 +6,11 @@ CheferizeIt is a simple node module that converts English to Mock Swedish, Bork 
 What Makes CheferizeIt Cool
 ---------------------------
 
-	- It will make your friends laugh
-	- Its packaged away in a node module so <code>require</code> it and your cookin.
-	- You can throw utensils in the air while coding.
-	- It has no dependencies so use it anywhere with anything.
-	- So what if theres a ton out there. Yours is for Node.
+* It will make your friends laugh
+* Its packaged away in a node module so <code>require</code> it and your cookin.
+* You can throw utensils in the air while coding.
+* It has no dependencies so use it anywhere with anything.
+* So what if theres a ton out there. Yours is for Node.
 
 Installation
 ------------
