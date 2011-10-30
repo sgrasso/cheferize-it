@@ -13,7 +13,9 @@ http.createServer(function(req, res) {
 	uri = uri.replace("/","");
 	if (uri !== "favicon.ico"){
 		strOut = chef.cheferize(uri);
+		strOut = strOut.replace(/%20/g," ");
 	}
+	console.log(strOut);
 	res.write(strOut);
 	res.end();
 }).listen(4000);
