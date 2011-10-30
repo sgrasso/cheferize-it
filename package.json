@@ -8,9 +8,8 @@
     "type": "git",
     "url": "git://github.com/sgrasso/cheferizeIt.git"
   },
-  "main": "./lib/cheferizeIt",
+  "main": "lib/cheferizeIt",
   "engines": {
     "node": "~v0.4.10"
-  },
-  "dependencies": {}
+  }
 }
