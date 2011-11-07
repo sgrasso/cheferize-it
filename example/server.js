@@ -3,6 +3,7 @@
  */ 
 var http = require("http"),
 	url = require("url"),
+
 	chef = require("../lib/cheferizeIt");
 
 // Create node.js server
@@ -17,4 +18,4 @@ http.createServer(function(req, res) {
 	}
 	res.write(strOut);
 	res.end();
-}).listen(12449);
+}).listen(process.env["app_port"]);
