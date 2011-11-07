@@ -18,4 +18,4 @@ http.createServer(function(req, res) {
 	}
 	res.write(strOut);
 	res.end();
-}).listen(process.env["app_port"]);
+}).listen(3000);
