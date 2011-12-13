@@ -10,6 +10,6 @@
   },
   "main": "lib/cheferizeIt",
   "engines": {
-    "node": "latest"
+    "node": ">= 0.4.0"
   }
 }
