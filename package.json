@@ -3,7 +3,7 @@
   "name": "cheferizeIt",
   "description": "A simple module to convert English to Mock Swedish, Bork Bork Bork!",
   "version": "0.0.3",
-  "homepage": "http:github.com/sgrasso/cheferizeIt",
+  "homepage": "https://github.com/sgrasso/CheferizeIt.js",
   "repository": {
     "type": "git",
     "url": "git://github.com/sgrasso/cheferizeIt.git"
