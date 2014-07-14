@@ -31,9 +31,6 @@ This method takes a string (single word or sentance) and translates it by breaki
 
 The example provided its nothing very advanced just enough for proof of concept.  It will take anything in the pathname of the url, translate it, and output it back on the screen.
 
-###Example App Link
-[cheferizeIt.nodester.com](http://cheferizeIt.nodester.com/)
-
 Poot zee cheeckee in zee put
 
 <pre><code>var http = require("http"),
