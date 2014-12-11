@@ -2,7 +2,8 @@
   "author": "Sean Grasso <sean.grasso@gmail.com>",
   "name": "cheferizeIt",
   "description": "A simple module to convert English to Mock Swedish, Bork Bork Bork!",
-  "version": "0.0.3",
+  "version": "0.0.4",
+  "license": "MIT",
   "homepage": "https://github.com/sgrasso/CheferizeIt.js",
   "repository": {
     "type": "git",
