@@ -1,4 +1,4 @@
-CheferizeIt.js
+CheferizeIt
 ==============
 
 CheferizeIt is a simple node module that converts English to Mock Swedish, Bork Bork Bork! Whether or not you find this useful I'm sure you will find some humor in the results.  Seriously who doesn't love the muppets and the Swedish Chef?...
