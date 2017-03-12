@@ -1,6 +1,10 @@
 CheferizeIt
 ==============
 
+[![npm](https://img.shields.io/npm/dt/cheferizeIt.svg)]()
+[![npm](https://img.shields.io/npm/v/cheferizeIt.svg)]()
+[![npm](https://img.shields.io/npm/l/cheferizeIt.svg)]()
+
 CheferizeIt is a simple node module that converts English to Mock Swedish, Bork Bork Bork! Whether or not you find this useful I'm sure you will find some humor in the results.  Seriously who doesn't love the muppets and the Swedish Chef?...
 
 What Makes CheferizeIt Cool
